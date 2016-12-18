@@ -128,14 +128,5 @@ def compare_logistic_model(df, categories):
 
 
 
-url = 'http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data'
-compare_logistic_model(url, ['Iris-setosa', 'Iris-versicolor', 'Iris-virginica'])
 
-
-url = 'http://archive.ics.uci.edu/ml/machine-learning-databases/cmc/cmc.data'
-compare_logistic_model(url, ['No-use', 'Long-term', 'Short-term'])
-
-
-url = 'http://archive.ics.uci.edu/ml/machine-learning-databases/00267/data_banknote_authentication.txt'
-compare_logistic_model(url, ['class 0', 'class 1'])
 
