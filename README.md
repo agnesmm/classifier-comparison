@@ -20,4 +20,4 @@ compare_logistic_model(url, ['No-use', 'Long-term', 'Short-term'])
 url = 'http://archive.ics.uci.edu/ml/machine-learning-databases/00267/data_banknote_authentication.txt'
 compare_logistic_model(url, ['class 0', 'class 1'])
 
-![alt tag](https://github.com/agnesmm/classifier-comparison/banknot_authentification.png)
+![alt tag](https://github.com/agnesmm/classifier-comparison/blob/master/banknote_authentication.png)
